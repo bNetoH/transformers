@@ -19,13 +19,13 @@ Se estiver utilizando GPU, também recomenda-se instalar o CUDA para melhor dese
 ## Conteúdo do Laboratório
 
 - Perguntas & Respostas (Q&A): Neste experimento, utilizamos um modelo de Q&A para responder perguntas com base em um texto fornecido.
-  ['q_and_r.png'](q_and_r.png)
+  ![print screen](q_and_r.png "q_and_r.png")
 
 - Resumindo Textos (Summarization): Utilizamos um modelo de resumo de textos para gerar versões concisas de um conteúdo maior.
-  ['summarization.png'](summarization.png)
+![print screen](summarization.png "summarization.png")
 
 - Análise de Sentimentos (Sentiment Analysis): Neste experimento, utilizamos um modelo de análise de sentimentos para classificar um texto como positivo, neutro ou negativo.
-  ['sentiment-analysis.png'](sentiment-analysis.png)
+![print screen](sentiment-analysis.png "sentiment-analysis.png")
 
 ## Contribuição
 
